@@ -30,14 +30,6 @@ Tested on:
 
 The module applies its settings automatically after Android finishes booting.
 
-## Notes
-
-This module uses the device's existing stock frequency levels rather than adding custom overclocked frequencies. The GPU is set to its highest available stock level of **1114.8 MHz**.
-
-Thermal management is intentionally left untouched. If the device reaches a thermal limit, the system is still allowed to throttle normally.
-
-The module does not force Vulkan, Turnip, ANGLE, or any other graphics driver.
-
 ## Disclaimer
 
 Use this module at your own risk. Performance settings can increase power consumption, heat, and battery drain. Although the module does not disable thermal protection, sustained high performance may still cause the device to become hot.
