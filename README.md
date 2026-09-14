@@ -1,4 +1,4 @@
-# xun Performance
+# Xun Performance
 
 A simple KernelSU performance module for devices using the Qualcomm **SM6225 (Snapdragon 680 / Khaje)** platform.
 
